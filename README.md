@@ -1,6 +1,5 @@
-<p align="center"> 
-  <img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" alt="taxilogo.gif" width="80px" height="80px">
-</p>
+
+<img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" align="center">
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
@@ -63,6 +62,10 @@ The k-nearest neighbours algorithm, sometimes referred to as KNN or k-NN, is a s
 
 </p>
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning4.png" alt="Formula 3" style="max-width:100%;"></p>
+
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning2.png" alt="Formula 3" style="max-width:100%;"></p>
+
+#### As we can see the 3 nearest neighbors are from category A, hence this new data point must belong to category A. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
