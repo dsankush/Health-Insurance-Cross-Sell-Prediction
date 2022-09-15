@@ -78,6 +78,28 @@ The k-nearest neighbours algorithm, sometimes referred to as KNN or k-NN, is a s
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<!-- Conclusions -->
+<h2 id="conclusions"> :scroll: Conclusions</h2>
+
+<p><b>1) Classification algorithm models have been developed to improve the efficiency of insurance companies, as they can determine which customers to target and how to increase sales by predicting the label class, which helped increase retention.</b></p>
+<p><b>2) Used SMOTE, Feature Importance, Classification algorithms like KNN, Random Forest techniques to resolve the issue.</b></p>
+<p><b>3) A number of feature transformations were performed, including Labelencoding, Upsampling, and Correlation analysis, to improve the data.</b></p>
+<p><b>4) Iterated with different models where KNN with 96% recall rate and 83% accuracy is the champion model and contender model being Decision Tree.</b></p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- Future Work -->
+<h2 id="Future Work"> :scroll: Future work</h2>
+
+-     Insurance Comapnies should promot and provide more customer friendly insuarance.
+-     Benefits for clients with vehicles older than two years.
+-     For analysis there should be more parameters for the analysis more some more features will help the analysis to be more explainatory.
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
@@ -114,6 +136,8 @@ Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusia
       <p>Available: https://risk.lexisnexis.com/insights-resources/case-study/maximize-property-to-auto-cross-sell-campaign-performance</p>
   </li>
 </ul>
+
+# **Thank you so much for visiting :smile:**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
