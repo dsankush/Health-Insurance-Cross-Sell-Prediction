@@ -1,5 +1,5 @@
 <p align="center"> 
-  ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif))
+  <img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" alt="taxilogo.gif" width="80px" height="80px">
 </p>
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
@@ -53,7 +53,9 @@ INSURANCE CROSS SELL PREDICTION.csv</b> - Includes all the required data for the
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: KNN (K-Nearest Neighbour) </h2>
-
+<p>
+The k-nearest neighbours algorithm, sometimes referred to as KNN or k-NN, is a supervised learning classifier that employs proximity to produce classifications or predictions about the grouping of a single data point.
+</p>
 <p>New data point and we need to put it in the required category. Consider the below image:
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning3.png" alt="Formula 2" style="max-width:100%;"></p>
 
@@ -107,4 +109,3 @@ Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusia
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
