@@ -10,32 +10,34 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
-id : Unique ID for the customer
+**id** : Unique ID for the customer
 
-Gender : Gender of the customer
+**Gender** : Gender of the customer
 
-Age : Age of the customer
+**Age** : Age of the customer
 
-Driving_License 0 : Customer does not have DL, 1 : Customer already has DL
+**Driving_License** 0 : Customer does not have DL, 1 : Customer already has DL
 
-Region_Code : Unique code for the region of the customer
+**Region_Code** : Unique code for the region of the customer
 
-Previously_Insured : 1 : Customer already has Vehicle Insurance, 0 : Customer doesn't have Vehicle Insurance
+**Previously_Insured** : 1 : Customer already has Vehicle Insurance, 0 : Customer doesn't have Vehicle Insurance
 
-Vehicle_Age : Age of the Vehicle
+**Vehicle_Age** : Age of the Vehicle
 
-Vehicle_Damage :1 : Customer got his/her vehicle damaged in the past. 0 : Customer didn't get his/her vehicle damaged in the past.
+**Vehicle_Damage** :1 : Customer got his/her vehicle damaged in the past. 0 : Customer didn't get his/her vehicle damaged in the past.
 
-Annual_Premium : The amount customer needs to pay as premium in the year
+**Annual_Premium** : The amount customer needs to pay as premium in the year
 
-PolicySalesChannel : Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
+**PolicySalesChannel** : Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
 
-Vintage : Number of Days, Customer has been associated with the company
+**Vintage** : Number of Days, Customer has been associated with the company
 
-Response : 1 : Customer is interested, 0 : Customer is not interested
+**Response** : 1 : Customer is interested, 0 : Customer is not interested
 
-As we can improve KNN Classifier Model more using more hyper parameter tuning which can give us more desired results which will be more helpful.
+### As we can improve KNN Classifier Model more using more hyper parameter tuning which can give us more desired results which will be more helpful.
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Conclusions :
 
 We can observe from our Initial analysis from distribution of our features and outlier detection and whole EDA analysis we can conclude that:
