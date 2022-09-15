@@ -1,5 +1,5 @@
 
-<h><img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" align="centre"></h>
+<img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" align="center">
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
@@ -79,6 +79,15 @@ The k-nearest neighbours algorithm, sometimes referred to as KNN or k-NN, is a s
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
+
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
 Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations and Data Science related job roles</i></p>
@@ -91,6 +100,7 @@ Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusia
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :books: References</h2>
 <ul>
   <li><p>javatpoint has helped to understand more about KNN</p>
