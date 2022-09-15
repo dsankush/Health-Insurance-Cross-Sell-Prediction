@@ -35,7 +35,7 @@ Vintage : Number of Days, Customer has been associated with the company
 Response : 1 : Customer is interested, 0 : Customer is not interested
 
 As we can improve KNN Classifier Model more using more hyper parameter tuning which can give us more desired results which will be more helpful.
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Conclusions :
 
 We can observe from our Initial analysis from distribution of our features and outlier detection and whole EDA analysis we can conclude that:
