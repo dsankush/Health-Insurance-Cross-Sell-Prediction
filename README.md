@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" align ="middle">
+<img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif" align ="center">
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
