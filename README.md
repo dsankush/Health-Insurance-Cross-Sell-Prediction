@@ -1,5 +1,6 @@
 <p align="center"> 
-  <img src="https://media.giphy.com/media/3o6Zt2RqEvIEwn452w/giphy.gif">
+  <img src="https://www.leadsquared.com/wp-content/uploads/2021/11/comprehensive-guide-to-cross-selling-policies.png" >
+  <img src="https://media.giphy.com/media/YqKPof1xLJaiCtpA6G/giphy.gif"  width="150px" height="150px">
 </p>
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
