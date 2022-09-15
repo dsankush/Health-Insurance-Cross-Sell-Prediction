@@ -60,6 +60,8 @@ The k-nearest neighbours algorithm, sometimes referred to as KNN or k-NN, is a s
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning3.png" alt="Formula 2" style="max-width:100%;"></p>
 
 <p>Next, we will calculate the Euclidean distance between the data points. The Euclidean distance is the distance between two points, which we have already studied in geometry. It can be calculated as:
+
+</p>
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning4.png" alt="Formula 3" style="max-width:100%;"></p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -109,3 +111,4 @@ Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusia
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
