@@ -41,7 +41,7 @@ In order to predict, whether the customer would be interested in Vehicle insuran
 <h4>Executable Files:</h4>
 <ul>
   <li><b>Health_Insurance_Cross_Sell_Prediction.ipynb</b> - Includes all functions required for classification operations.</li>
-  <li><b>Project presentation.py</b> - Contains all the analysis which is presented after completing the analysis.</li>
+  <li><b>Project presentation.docx</b> - Contains all the analysis which is presented after completing the analysis.</li>
   <li><b>Project report.pdf</b> - Contains whole analysis strategy and analysis methodology followed for the project.</li>
 </ul>
 
