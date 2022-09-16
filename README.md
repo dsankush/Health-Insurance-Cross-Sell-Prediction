@@ -1,7 +1,6 @@
 <p align="center"> 
   <img src="https://www.leadsquared.com/wp-content/uploads/2021/11/comprehensive-guide-to-cross-selling-policies.png" >
   <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-  <img src="https://media.giphy.com/media/YqKPof1xLJaiCtpA6G/giphy.gif"  width="150px" height="150px">
 </p>
 <p align="center"> 
   <img src="https://media.giphy.com/media/YqKPof1xLJaiCtpA6G/giphy.gif"  width="150px" height="150px">
