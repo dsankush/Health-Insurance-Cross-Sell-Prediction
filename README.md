@@ -1,10 +1,9 @@
 <p align="center"> 
   <img src="https://www.leadsquared.com/wp-content/uploads/2021/11/comprehensive-guide-to-cross-selling-policies.png" >
+  <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
   <img src="https://media.giphy.com/media/YqKPof1xLJaiCtpA6G/giphy.gif"  width="150px" height="150px">
 </p>
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-
 <p>Developed various models to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.</p>
 
 <h2> :floppy_disk: Data Description</h2>
@@ -110,8 +109,8 @@ Ankush Kumar | Data Science | Machine Learning Engineer | Deep Learning enthusia
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsankushkumar/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsankush)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)]()
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)]()
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dsankushkumar/various-types-of-matrices-in-regression-for-machine-learning-38e454bbc06)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1r3LKVin4RUFty0ZNYSwvciMsp4_iiI_o/view?usp=sharing)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
