@@ -3,6 +3,9 @@
   <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
   <img src="https://media.giphy.com/media/YqKPof1xLJaiCtpA6G/giphy.gif"  width="150px" height="150px">
 </p>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/YqKPof1xLJaiCtpA6G/giphy.gif"  width="150px" height="150px">
+</p>
 <h1 align="center"> Health Insurance Cross Sell Prediction </h1>
 <p>Developed various models to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.</p>
 
